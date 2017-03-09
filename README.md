@@ -1,8 +1,9 @@
 Data Quality in a Big Data Context
 ==================================
 
-Also tentatiev title: Measuring Data Quality on Social Network Feeds
-Also tentatiev title: Measuring Data Quality on Twitter
+Also tentative title: Measuring Data Quality on Social Network Feeds
+
+Also tentative title: Measuring Data Quality on Twitter
 
 The following project aims to define and measure Data Quality in a Big Data context, in particular, we will analize a stream of Twitter feeds. With this information, we aim to classify the users by the quality on the feeds they provide given a particular hashtag.
 
