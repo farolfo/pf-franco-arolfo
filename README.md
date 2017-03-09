@@ -19,7 +19,7 @@ Our program will contain 3 major modules and 2 storages:
 
 * Users API: These service exposes the information that the Users Storage saved, we will use it to query the Users Storage and find out the bests users for a given hashtag.
 
-* Feeds Storage: Storage of the feeds by user. An inmemory key-word database like Redis my be work for these needs, saving <user, feed> entries.
+* Feeds Storage: Storage of the feeds by user. An inmemory key-word database like Redis my work for these needs, saving <user, feed> entries.
 
 * Users Storage: Storage of the users profiles, with their computed data quality values. A MongoDB or Postgres should feets these needs.
 
